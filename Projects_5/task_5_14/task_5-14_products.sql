@@ -1,0 +1,5 @@
+SELECT
+    name AS "Название товара",
+    category AS "Категория"
+FROM
+    products;
